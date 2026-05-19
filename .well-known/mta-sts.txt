@@ -1,5 +1,5 @@
 version: STSv1
-mode: enforce
+mode: testing
 mx: smtp.google.com.r0ut3s.mx.cl0udfl4r3.n3t.free.orog.org
 mx: smtp.google.com.mxs.1mpr0vmx.c0m.free.orog.org
 max_age: 86400
